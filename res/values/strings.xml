@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ca-app-pub-3940256099942544/6300978111 測試用 -->
+    <string name="app_name">高雄美食地圖</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4608878653913022/8718249394</string>
+    <string name="add_activity_favorite">增加至我的最愛</string>
+    <string name="title_activity_favorite">我的最愛</string>
+    <string name="search_tool">搜尋</string>
+    <string name="title_activity_search_result">SearchResult</string>
+    <string name="add_favorite">加最愛</string>
+</resources>
